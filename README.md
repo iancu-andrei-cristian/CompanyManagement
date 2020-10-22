@@ -1,2 +1,2 @@
 # CompanyManagement
- Company management application written in Java and SQL.
+ Company management application developed using Java and SQL.
